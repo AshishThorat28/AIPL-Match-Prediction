@@ -45,4 +45,3 @@ For historical matches, we know which team batted first. But for future IPL fixt
 4. Open `AIPL_mark6.ipynb` and execute the cells sequentially.
 
 ---
-*Architected and developed by Ashish Thorat.*
